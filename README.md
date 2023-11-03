@@ -13,7 +13,7 @@ We are using MNIST Dataset for this experiment. The MNIST dataset is a collectio
 
 ## Convolution Autoencoder Network Model:
 
-![image](https://github.com/RanjithD18/convolutional-denoising-autoencoder/blob/main/image.png)
+![image](https://github.com/RanjithD18/convolutional-denoising-autoencoder/blob/main/1.png)
 
 
 ## DESIGN STEPS
